@@ -1,4 +1,5 @@
 from src.head_hunter_api import HeadHunterAPI
+from src.save_to_json_file import SaveToJSONFile
 from src.vacancy import Vacancy
 
 if __name__ == "__main__":
@@ -39,3 +40,14 @@ if __name__ == "__main__":
     print(vacancies[2] >= vacancies[3])
     print(vacancies[2] < vacancies[3])
     print(vacancies[2] <= vacancies[3])
+
+    saver_json = SaveToJSONFile()
+    saver_json.save_to_file(vacancies[0])
+    saver_json.save_to_file(vacancies[0])
+    saver_json.add_to_file(vacancies[1])
+
+    data_from_file = saver_json.read_from_file()
+    print(data_from_file)
+    saver_json.delete_from_file(vacancies[0])
+    data_from_file = saver_json.read_from_file()
+    print(data_from_file)

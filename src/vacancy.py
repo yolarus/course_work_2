@@ -32,14 +32,9 @@ class Vacancy:
         self.requirements = requirements
         self.__check_city(area)
 
-    def __check_city(self, area: str) -> None:
-        """
-        Валидация вакансии по месту работы
-        """
-        if area == "Москва":
-            self.area = area
-        else:
-            self.area = "Можно не рассматривать данную вакансию"
+    def __str__(self) -> str:
+        return (f"{self.name} -- {self.url} -- {self.salary} -- {self.short_description}"
+                f" -- {self.requirements} -- {self.area}")
 
     def __eq__(self, other: "Vacancy") -> bool:   # type: ignore[override]
         """
@@ -70,3 +65,16 @@ class Vacancy:
             return True
         else:
             return False
+
+    def __check_city(self, area: str) -> None:
+        """
+        Валидация вакансии по месту работы
+        """
+        if area == "Москва":
+            self.area = area
+        else:
+            self.area = "Можно не рассматривать данную вакансию"
+
+    def to_dict(self) -> dict:
+        return {"name": self.name, "url": self.url, "salary": self.salary, "short_description": self.short_description,
+                "requirements": self.requirements, "area": self.area}
