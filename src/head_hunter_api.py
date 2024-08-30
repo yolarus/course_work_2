@@ -22,7 +22,7 @@ class HeadHunterAPI(BaseAPI):
             self.__connection = False
         return self.__connection
 
-    def get_vacancies(self, query: str, per_page: int = 10) -> list:
+    def get_vacancies(self, query: str, per_page: int = 100) -> list:
         """
         Возвращает список вакансий по ключевому слову
         """

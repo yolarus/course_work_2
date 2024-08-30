@@ -52,3 +52,7 @@ class SaveToJSONFile(SaveToFile):
 
         with open(f"data/{self.__file_name}.json", "w") as file:
             json.dump(data, file, indent=4, ensure_ascii=False)
+
+    def clear_file(self) -> None:
+        with open(f"data/{self.__file_name}.json", "w") as file:
+            json.dump([], file)

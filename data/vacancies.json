@@ -1,10 +1,34 @@
 [
     {
-        "name": "Программист Python (Джуниор)",
-        "url": "https://api.hh.ru/vacancies/106396567?host=hh.ru",
-        "salary": "35000 - 60000 - RUR",
-        "short_description": "Техническая поддержка продукта. Консультации клиентов через портал поддержки по вопросам интеграции. Помощь клиентам с настройкой интеграции. Настройка ПО, оборудования, техническая...",
-        "requirements": "<highlighttext>Python</highlighttext>. PHP. API. SQL – написание запросов простых и средней сложности. Коммуникабельность, логическое мышление, точность. Способность быстро разобраться в нештатных ситуациях...",
+        "name": "Junior Python разработчик",
+        "url": "https://api.hh.ru/vacancies/106571399?host=hh.ru",
+        "salary": "125000 - 125000 - RUR",
+        "short_description": "Разработка и поддержка backend части приложения на <highlighttext>Python</highlighttext>. Работа с базами данных (например, PostgreSQL, MongoDB). Написание чистого, эффективного и хорошо...",
+        "requirements": "Базовые знания <highlighttext>Python</highlighttext>. Понимание ООП. Опыт работы с фреймворками (например, Django, Flask). Знание SQL. Базовые знания HTML, CSS, JavaScript. ",
+        "area": "Москва"
+    },
+    {
+        "name": "Аналитик данных (Python)",
+        "url": "https://api.hh.ru/vacancies/106505774?host=hh.ru",
+        "salary": "100000 - 130000 - RUR",
+        "short_description": "Финансовый анализ компании: с помощью инструментов <highlighttext>Python</highlighttext> создавать автоматизированные системы анализа продаж. Сбор и хранение информации c помощью баз данных. ",
+        "requirements": "Опыт работы с данными от 1 года. Знание <highlighttext>Python</highlighttext> и библиотек для анализа данных (в основном используется Pandas). ",
+        "area": "Москва"
+    },
+    {
+        "name": "Middle Backend-разработчик (Python)",
+        "url": "https://api.hh.ru/vacancies/106505906?host=hh.ru",
+        "salary": "200000 - 200000 - RUR",
+        "short_description": "Разработка и поддержка бэкенд-части собственного инхаус решения на <highlighttext>Python</highlighttext>. Необходимо реализовывать новый функционал, рефакторить код, фиксить баги, участвовать в...",
+        "requirements": "Подтвержденный опыт работы с <highlighttext>Python</highlighttext> от 3-х лет. Знание SQL и опыт работы с реляционными БД PostgreSQL. ",
         "area": "Можно не рассматривать данную вакансию"
+    },
+    {
+        "name": "Инженер по тестированию ПО (авто и ручное тестирование)",
+        "url": "https://api.hh.ru/vacancies/106369356?host=hh.ru",
+        "salary": "150000 - 150000 - RUR",
+        "short_description": "Разработка новых и поддержка существующих автотестов (<highlighttext>Python</highlighttext>) для backend, frontend. Проведение интеграционного, функционального и регрессионного тестирования. Разработка и согласование тест...",
+        "requirements": "Понимание работы сетевых протоколов tcp/ip. Знание SQL, Postman, <highlighttext>Python</highlighttext>. Знание методов и методик тестирования. Опыт командной работы с репозиториями. ",
+        "area": "Москва"
     }
 ]
