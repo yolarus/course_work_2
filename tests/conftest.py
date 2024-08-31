@@ -57,6 +57,32 @@ def second_vacancy_dict() -> dict:
 
 
 @pytest.fixture()
+def full_info_first_vacancy_dict() -> dict:
+    """
+    Фикстура - объект 1 класса Vacancy, преобразованный в словарь
+    """
+    return {"name": "Test",
+            "url": "don't have",
+            "salary": {"from": 50000, "to": 100000, "currency": "RUR"},
+            "snippet": {"responsibility": "description",
+                        "requirement": "requirements"},
+            "area": {"name": "Москва"}}
+
+
+@pytest.fixture()
+def full_info_second_vacancy_dict() -> dict:
+    """
+    Фикстура - объект 2 класса Vacancy, преобразованный в словарь
+    """
+    return {"name": "Test 2",
+            "url": "don't have",
+            "salary": {"from": 150000, "to": 200000, "currency": "RUR"},
+            "snippet": {"responsibility": "description",
+                        "requirement": "requirements"},
+            "area": {"name": "Москва"}}
+
+
+@pytest.fixture()
 def saver_json() -> SaveToJSONFile:
     """
     Фикстура - объект класса SaveToJSONFile

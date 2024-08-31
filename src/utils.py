@@ -3,7 +3,7 @@ from src.vacancy import Vacancy
 
 def list_of_vacancies(full_info_vacancies: list) -> list[Vacancy]:
     """
-    Преобразованный список вакансий из hh.ru в список объектов Vacancy
+    Функция фозвращает преобразованный список вакансий из hh.ru в список объектов Vacancy
     """
     result = []
     for item in full_info_vacancies:
