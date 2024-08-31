@@ -36,3 +36,6 @@ line-length = 119
 
 [tool.isort]
 line_length = 119
+
+[tool.coverage.run]
+omit = ["src/save_to_csv_file.py", "src/save_to_txt_file.py", "src/save_to_xlsx_file.py"]

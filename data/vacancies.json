@@ -16,19 +16,27 @@
         "area": "Москва"
     },
     {
-        "name": "Middle Backend-разработчик (Python)",
-        "url": "https://api.hh.ru/vacancies/106505906?host=hh.ru",
-        "salary": "200000 - 200000 - RUR",
-        "short_description": "Разработка и поддержка бэкенд-части собственного инхаус решения на <highlighttext>Python</highlighttext>. Необходимо реализовывать новый функционал, рефакторить код, фиксить баги, участвовать в...",
-        "requirements": "Подтвержденный опыт работы с <highlighttext>Python</highlighttext> от 3-х лет. Знание SQL и опыт работы с реляционными БД PostgreSQL. ",
+        "name": "Junior/Middle Python разработчик",
+        "url": "https://api.hh.ru/vacancies/106505470?host=hh.ru",
+        "salary": "50000 - 50000 - RUR",
+        "short_description": "Писать чистый и надежный код на <highlighttext>Python</highlighttext>. Поддерживать и улучшать существующий продукты. Работать над архитектурой приложений. Тестировать и отлаживать приложения. ",
+        "requirements": "Опыт работы с <highlighttext>Python</highlighttext>. Уверенное владение Flask или Django. Знание SQL (PostgreSQL\\MySQL) и NoSQL (MongoDB) баз данных. ",
         "area": "Можно не рассматривать данную вакансию"
     },
     {
-        "name": "Инженер по тестированию ПО (авто и ручное тестирование)",
-        "url": "https://api.hh.ru/vacancies/106369356?host=hh.ru",
-        "salary": "150000 - 150000 - RUR",
-        "short_description": "Разработка новых и поддержка существующих автотестов (<highlighttext>Python</highlighttext>) для backend, frontend. Проведение интеграционного, функционального и регрессионного тестирования. Разработка и согласование тест...",
-        "requirements": "Понимание работы сетевых протоколов tcp/ip. Знание SQL, Postman, <highlighttext>Python</highlighttext>. Знание методов и методик тестирования. Опыт командной работы с репозиториями. ",
+        "name": "Junior Python Developer",
+        "url": "https://api.hh.ru/vacancies/106080127?host=hh.ru",
+        "salary": "70000 - 100000 - RUR",
+        "short_description": "На входе будет бэклог с новым функционалом, который необходимо будет обложить тест-кейсами на <highlighttext>python</highlighttext> ( тест-кейсы для общения с...",
+        "requirements": "Есть коммерческий опыт разработки около 1 года. У тебя уровень знания <highlighttext>python</highlighttext> выше начального/средний. Есть опыт с pytest (слышал...",
         "area": "Москва"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "url": "https://api.hh.ru/vacancies/105072888?host=hh.ru",
+        "salary": "60000 - 60000 - RUR",
+        "short_description": "Написание и поддержка интеграций (<highlighttext>python</highlighttext>2/3 + REST/SOAP + MySQL). * Разработка новых продуктов (<highlighttext>python</highlighttext>3 + Flask/FastAPI...",
+        "requirements": "Комплекс Программных Средств \"Виста-Мед\". * Опыт коммерческой разработки от 1 года. * Владение <highlighttext>Python</highlighttext> 2/3. * Владение (My)SQL, конкретно: * * Иметь...",
+        "area": "Можно не рассматривать данную вакансию"
     }
 ]

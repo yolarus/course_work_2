@@ -11,7 +11,7 @@ class SaveToJSONFile(SaveToFile):
     """
     __file_name: str
 
-    def __init__(self, file_name: str = "vacancies"):
+    def __init__(self, file_name: str = "vacancies") -> None:
         self.__file_name = file_name
 
     def save_to_file(self, vacancy: Vacancy) -> None:

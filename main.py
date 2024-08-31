@@ -11,7 +11,7 @@ def user_interaction() -> None:
     search_query = input("Введите ключевые слова для запроса: ")  # python
     top_n = int(input("Введите количество вакансий (до 100) для вывода в топ N: "))  # 5
     filter_words = input("Введите ключевые слова для фильтрации вакансий: ").lower().split()  # python
-    salary_range = input("Введите диапазон зарплат в формате x - y - RUR: ")  # 50000 - 150000 - RUR
+    salary_range = input("Введите диапазон зарплат в формате 'x - y - RUR': ")  # 50000 - 150000 - RUR
 
     head_hunter_api = HeadHunterAPI()
     full_info_vacancies = head_hunter_api.get_vacancies(search_query)

@@ -22,8 +22,8 @@ class Vacancy:
         self.__check_city(area)
 
     def __str__(self) -> str:
-        return (f"{self.name} -- {self.url} -- {self.salary} -- {self.short_description}"
-                f" -- {self.requirements} -- {self.area}")
+        return (f"{self.name} -- {self.url} -- {self.salary}\n -- {self.short_description}\n"
+                f" -- {self.requirements}\n -- {self.area}\n")
 
     def __eq__(self, other: "Vacancy") -> bool:   # type: ignore[override]
         """
