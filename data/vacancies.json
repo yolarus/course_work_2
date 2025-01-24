@@ -1,42 +1,42 @@
 [
     {
-        "name": "Junior Python разработчик",
-        "url": "https://api.hh.ru/vacancies/106571399?host=hh.ru",
+        "name": "Инженер - тестировщик ПО",
+        "url": "https://api.hh.ru/vacancies/116163912?host=hh.ru",
         "salary": "125000 - 125000 - RUR",
-        "short_description": "Разработка и поддержка backend части приложения на <highlighttext>Python</highlighttext>. Работа с базами данных (например, PostgreSQL, MongoDB). Написание чистого, эффективного и хорошо...",
-        "requirements": "Базовые знания <highlighttext>Python</highlighttext>. Понимание ООП. Опыт работы с фреймворками (например, Django, Flask). Знание SQL. Базовые знания HTML, CSS, JavaScript. ",
-        "area": "Москва"
-    },
-    {
-        "name": "Аналитик данных (Python)",
-        "url": "https://api.hh.ru/vacancies/106505774?host=hh.ru",
-        "salary": "100000 - 130000 - RUR",
-        "short_description": "Финансовый анализ компании: с помощью инструментов <highlighttext>Python</highlighttext> создавать автоматизированные системы анализа продаж. Сбор и хранение информации c помощью баз данных. ",
-        "requirements": "Опыт работы с данными от 1 года. Знание <highlighttext>Python</highlighttext> и библиотек для анализа данных (в основном используется Pandas). ",
-        "area": "Москва"
-    },
-    {
-        "name": "Junior/Middle Python разработчик",
-        "url": "https://api.hh.ru/vacancies/106505470?host=hh.ru",
-        "salary": "50000 - 50000 - RUR",
-        "short_description": "Писать чистый и надежный код на <highlighttext>Python</highlighttext>. Поддерживать и улучшать существующий продукты. Работать над архитектурой приложений. Тестировать и отлаживать приложения. ",
-        "requirements": "Опыт работы с <highlighttext>Python</highlighttext>. Уверенное владение Flask или Django. Знание SQL (PostgreSQL\\MySQL) и NoSQL (MongoDB) баз данных. ",
+        "short_description": "Ручное и автоматизированное тестирование Linux приложений на С/<highlighttext>Python</highlighttext>/TCL. Функциональное тестирование (ПО, входящего в состав маршрута проектирования САПР СБИС...",
+        "requirements": "Опыт тестирования ПО от 2 лет. Опыт работы в ОС Linux. Знание <highlighttext>Python</highlighttext>, Tcl, Bash. Знания основных методик тестирования и...",
         "area": "Можно не рассматривать данную вакансию"
     },
     {
-        "name": "Junior Python Developer",
-        "url": "https://api.hh.ru/vacancies/106080127?host=hh.ru",
-        "salary": "70000 - 100000 - RUR",
-        "short_description": "На входе будет бэклог с новым функционалом, который необходимо будет обложить тест-кейсами на <highlighttext>python</highlighttext> ( тест-кейсы для общения с...",
-        "requirements": "Есть коммерческий опыт разработки около 1 года. У тебя уровень знания <highlighttext>python</highlighttext> выше начального/средний. Есть опыт с pytest (слышал...",
+        "name": "Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/116095908?host=hh.ru",
+        "salary": "70000 - 70000 - RUR",
+        "short_description": "Базовые знания разработки <highlighttext>Python</highlighttext>. Автоматизация рабочих процессов посредством PowerShell других языков программирования. Сопровождение Exchange, ActiveDirectory. Сопровождение RDS (администрирование ConnectionBroker и...",
+        "requirements": "PowerShell (Чтение и адаптация готовых скриптов, написание собственных). Exchange -администратор на уровне почтовых ящиков. AD Audit - пользователь. Знание языка <highlighttext>python</highlighttext>...",
+        "area": "Можно не рассматривать данную вакансию"
+    },
+    {
+        "name": "Intern Data Analyst / Стажер - аналитик данных",
+        "url": "https://api.hh.ru/vacancies/115748775?host=hh.ru",
+        "salary": "100000 - 100000 - RUR",
+        "short_description": "Demonstrate use of data visualization (Power BI, Excel), and analytic tools (<highlighttext>Python</highlighttext>, R, SQL, KNIME). Collaborate with multifunctional teams (Marketing...",
+        "requirements": "Previous experience with some of the following tools would be considered an advantage: scientific or statistical computing (<highlighttext>Python</highlighttext>, R), SQL...",
         "area": "Москва"
     },
     {
-        "name": "Junior Python разработчик",
-        "url": "https://api.hh.ru/vacancies/105072888?host=hh.ru",
-        "salary": "60000 - 60000 - RUR",
-        "short_description": "Написание и поддержка интеграций (<highlighttext>python</highlighttext>2/3 + REST/SOAP + MySQL). * Разработка новых продуктов (<highlighttext>python</highlighttext>3 + Flask/FastAPI...",
-        "requirements": "Комплекс Программных Средств \"Виста-Мед\". * Опыт коммерческой разработки от 1 года. * Владение <highlighttext>Python</highlighttext> 2/3. * Владение (My)SQL, конкретно: * * Иметь...",
+        "name": "Тестировщик / QA Engineer",
+        "url": "https://api.hh.ru/vacancies/116181491?host=hh.ru",
+        "salary": "95000 - 110000 - RUR",
+        "short_description": "Составить и поддерживать в актуальном состоянии тестовую документацию. Разработка автотестов на <highlighttext>Python</highlighttext>. Взаимодействие с разработчиками по выявленным сбоям в работе...",
+        "requirements": "Опыт тестирования web приложений от 1 года. Понимание работы и опыт тестирования клиент-серверных приложений (JSON, API, HTTP/HTTPSи т...",
+        "area": "Москва"
+    },
+    {
+        "name": "Junior+ Python/Go разработчик",
+        "url": "https://api.hh.ru/vacancies/116138333?host=hh.ru",
+        "salary": "70000 - 110000 - RUR",
+        "short_description": "Написание и поддержка интеграций (<highlighttext>Python</highlighttext>2, MySQL, SOAP/REST). Поддержка и развитие существующих клиент-серверных продуктов (<highlighttext>Python</highlighttext> 3 + FastApi...",
+        "requirements": "Опыт коммерческой разработки от 1 года. Владение <highlighttext>Python</highlighttext> 2/3. Владение (My)SQL, конкретно. Написать запросы, достаточные для CRUD (SELECT...",
         "area": "Можно не рассматривать данную вакансию"
     }
 ]
